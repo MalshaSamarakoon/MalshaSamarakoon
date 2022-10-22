@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Malsha Samarakoon
-- 👀 I’m interested in full stack developing & Front-end developing
+- 👀 I’m interested in Full stack developing & Front-end developing
 
-- 📫 How to reach me ...
+- 📫 Reach me via...
              www.linkedin.com/in/malsha-samarakoon-66a6681aa
              https://medium.com/@malshasamarakoon
 <!---
