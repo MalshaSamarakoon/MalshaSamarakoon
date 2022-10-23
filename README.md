@@ -3,21 +3,16 @@
 <h1 align="center">Hi 👋, I'm Malsha Samarakoon</h1>
 <h3 align="center">Passionate about Full stack developing & Front-end developing</h3>
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/scaler-create-impact-coding-programming-chill-gif-24991316">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/scaler-create-impact-coding-programming-chill-gif-24991316.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malshasamarakoon&label=Profile%20views&color=0e75b6&style=flat" alt="malshasamarakoon" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malshasamarakoon" alt="malshasamarakoon" /></a> </p>
 
 - 🔭 I’m currently **a student at Uva Wellassa University on**
 
 - 📝 I regularly write articles on [https://medium.com/@malshasamarakoon](https://medium.com/@malshasamarakoon)
 
-- 📄 Know about my experiences [https://github.com/MalshaSamarakoon/Portfolio/blob/master/src/Assets/resume_S.M.M.C.Samarakoon.pdf](https://github.com/MalshaSamarakoon/Portfolio/blob/master/src/Assets/resume_S.M.M.C.Samarakoon.pdf)
+- 📄 Know about me @ https://malshasamarakooon.vercel.app/
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
