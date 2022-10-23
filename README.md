@@ -4,11 +4,11 @@
 
 
 <br>
-- 🔭 I’m currently **a student at Uva Wellassa University on**
+ 📚 I’m currently a Computer Science Undergraduate at Uva Wellassa University <br><br>
 
-- 📝 Reed my articles on [https://medium.com/@malshasamarakoon](https://medium.com/@malshasamarakoon)
+ 📝 Reed my articles on [https://medium.com/@malshasamarakoon](https://medium.com/@malshasamarakoon)
 
-- 📄 Know about me @ https://malshasamarakooon.vercel.app/
+ 🙋🏻‍♀️ Get know about me @ https://malshasamarakooon.vercel.app/
 
 <br>
 
