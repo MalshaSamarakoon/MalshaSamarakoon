@@ -1,9 +1,6 @@
 ![MasterHead](https://github.com/MalshaSamarakoon/my_images/blob/49b7f0b7661408bc5ef7d3a496ad9c6da0bc176a/cover.PNG)
 
 <h1 align="center">Hi 👋, I'm Malsha Samarakoon</h1>
-<h3 align="center">Passionate about Full stack developing & Front-end developing</h3>
-
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/scaler-create-impact-coding-programming-chill-gif-24991316.gif">
 
 
 <br>
