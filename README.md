@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/MalshaSamarakoon/my_images/blob/49b7f0b7661408bc5ef7d3a496ad9c6da0bc176a/cover.PNG)
+![MasterHead](https://github.com/MalshaSamarakoon/my_images/blob/941a0904865563a4cd6f2840f82fbf7a0486a3dc/cover.PNG)
 
 <h1 align="center">Hi 👋, I'm Malsha Samarakoon</h1>
 
