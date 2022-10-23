@@ -4,11 +4,15 @@
 
 
 <br>
- 📚 I’m currently a Computer Science Undergraduate at Uva Wellassa University <br><br>
+ 📚 Currently I’m  a Computer Science Undergraduate at Uva Wellassa University <br><br>
 
- 📝 Reed my articles on [https://medium.com/@malshasamarakoon](https://medium.com/@malshasamarakoon)
+ 📝 Reed my articles on 👉🏻 <a href="https://medium.com/@malshasamarakoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@malshasamarakoon" height="30" width="40" /></a>
 
- 🙋🏻‍♀️ Get know about me @ https://malshasamarakooon.vercel.app/
+ 🙋🏻‍♀️ Get know about me 👉🏻 <a href="https://malshasamarakooon.vercel.app/" target="blank"><img align="center" src="https://github.com/MalshaSamarakoon/Portfolio/blob/7e34962fad7c8e69ece0484e4948731996ef2ffd/src/Assets/malshalogo.png" alt="@malshasamarakoon" height="30" width="40" /></a>
+ 
+  
+ 
+ 
 
 <br>
 
@@ -18,7 +22,7 @@
 <a href="https://linkedin.com/in/malsha-samarakoon-66a6681aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malsha-samarakoon-66a6681aa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/samarakoonsmmc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="samarakoonsmmc" height="30" width="40" /></a>
 <a href="https://kaggle.com/malshasamarakoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="malshasamarakoon" height="30" width="40" /></a>
-<a href="https://medium.com/@malshasamarakoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@malshasamarakoon" height="30" width="40" /></a>
+
 </p>
 
 <br>
