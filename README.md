@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]([https://rishavchanda.io](https://github.com/MalshaSamarakoon/my_images/blob/49b7f0b7661408bc5ef7d3a496ad9c6da0bc176a/cover.PNG))
 
 <h1 align="center">Hi 👋, I'm Malsha Samarakoon</h1>
 <h3 align="center">Passionate about Full stack developing & Front-end developing</h3>
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently **a student at Uva Wellassa University on**
 
-- 📝 I regularly write articles on [https://medium.com/@malshasamarakoon](https://medium.com/@malshasamarakoon)
+- 📝 Reed my articles on [https://medium.com/@malshasamarakoon](https://medium.com/@malshasamarakoon)
 
 - 📄 Know about me @ https://malshasamarakooon.vercel.app/
 
