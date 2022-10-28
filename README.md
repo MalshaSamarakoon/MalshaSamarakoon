@@ -8,7 +8,7 @@
 
  📝 Reed my articles on 👉🏻 <a href="https://medium.com/@malshasamarakoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@malshasamarakoon" height="30" width="40" /></a>
 
- 🙋🏻‍♀️ Get know about me 👉🏻 <a href="#" target="blank"><img align="center" src="https://github.com/MalshaSamarakoon/Portfolio/blob/7e34962fad7c8e69ece0484e4948731996ef2ffd/src/Assets/malshalogo.png" alt="@malshasamarakoon" height="30" width="40" /></a>
+ 🙋🏻‍♀️ Get know about me 👉🏻 <a href="https://malshasamarakooon.vercel.app/" target="blank"><img align="center" src="https://github.com/MalshaSamarakoon/Portfolio/blob/7e34962fad7c8e69ece0484e4948731996ef2ffd/src/Assets/malshalogo.png" alt="@malshasamarakoon" height="30" width="40" /></a>
  
   
  
