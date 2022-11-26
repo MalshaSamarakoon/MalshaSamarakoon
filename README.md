@@ -1,17 +1,20 @@
 ![MasterHead](https://github.com/MalshaSamarakoon/my_images/blob/941a0904865563a4cd6f2840f82fbf7a0486a3dc/cover.PNG)
 
-<h1 align="center">Hi 👋, I'm Malsha Samarakoon</h1>
-
+<h1 align="center">Hi 👋, I'm Malsha Samarakoon</h1> 
 
 <br>
  📚 Currently I’m  a Computer Science Undergraduate at Uva Wellassa University <br><br>
 
  📝 Reed my articles on 👉🏻 <a href="https://medium.com/@malshasamarakoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@malshasamarakoon" height="30" width="40" /></a>
+ 
+ 
+ <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/QuDgW7dXQfCZiWVXD4/giphy.gif?cid=ecf05e4794stcfpe0ux1mrx7czjkndmyowtqsp9so5o0fs4q&rid=giphy.gif&ct=s">
 
  🙋🏻‍♀️ Get know about me 👉🏻 <a href="https://malshasamarakooon.vercel.app/" target="blank"><img align="center" src="https://github.com/MalshaSamarakoon/Portfolio/blob/7e34962fad7c8e69ece0484e4948731996ef2ffd/src/Assets/malshalogo.png" alt="@malshasamarakoon" height="30" width="40" /></a>
  
   
  
+
  
 
 <br>
