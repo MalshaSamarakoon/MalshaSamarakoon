@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Malsha Samarakoon</h1> 
 
 <br>
- 📚 Currently I’m  a Computer Science Undergraduate at Uva Wellassa University <br><br>
+ 📚 Computer Science Undergraduate at Uva Wellassa University <br><br>
 
  📝 Reed my articles on 👉🏻 <a href="https://medium.com/@malshasamarakoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@malshasamarakoon" height="30" width="40" /></a>
  
